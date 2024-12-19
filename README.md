@@ -1,31 +1,21 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
     QuizApp
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/SafdarJamal/quiz-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
-  </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/quiz-app" alt="GitHub Release (latest by date)" />
-  </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/quiz-app" alt="License" />
-  </a>
-</p>
+
 
 <p align="center">
   QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
 </p>
 
-![QuizApp](https://github.com/SafdarJamal/quiz-app/assets/48409548/22e9696d-bab4-4aa5-a028-4a4f9ce71777)
+![272064147-22e9696d-bab4-4aa5-a028-4a4f9ce71777](https://github.com/user-attachments/assets/d5bba609-cb21-4ca0-aa5c-2feb20f846a0)
 
 ## Built with
 
 - [React](http://react.dev)
 - [Semantic UI](https://semantic-ui.com)
 - [Open Trivia Database API](https://opentdb.com/api_config.php)
+
 
 
